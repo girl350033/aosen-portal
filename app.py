@@ -1,5 +1,16 @@
 import streamlit as st
 
+st.set_page_config(
+    page_title="行政工具",
+    page_icon="🧸",
+    layout="wide",
+    menu_items={
+        "Get Help": None,
+        "Report a bug": None,
+        "About": "🌱行政工具",
+    },
+)
+
 st.set_page_config(page_title="行政工具", page_icon="🧸", layout="wide")
 
 st.title("🌱行政工具")
