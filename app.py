@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="澳森 AI 工具中心", page_icon="🧸", layout="wide")
+st.set_page_config(page_title="行政工具", page_icon="🧸", layout="wide")
 
 st.title("🌱行政工具")
 st.write("歡迎使用，請選擇您要操作的工具：")
