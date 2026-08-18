@@ -17,7 +17,7 @@ with col2:
     st.subheader("🛠 行政與盤點")
     st.page_link("https://aosen-monthlycleaning-6oyx3grsulh5fwzaxhbieo.streamlit.app/#920fe149", label="環境清潔紀錄", icon="🧹")
     st.page_link("https://nursery-inventory-angkizkysrp7wxqtad3fxg.streamlit.app/", label="西湖庫存盤點", icon="📦")
-    st.page_link("https://nursery-inventory-xihu-vpfnntbsxxnpee76hpushc.streamlit.app/", label="西湖庫存盤點", icon="🏥")
+    st.page_link("https://nursery-inventory-xihu-vpfnntbsxxnpee76hpushc.streamlit.app/", label="文德庫存盤點", icon="🏥")
 
 st.divider()
 st.info("💡 提示：點擊上方連結即可切換到對應的網頁。")
